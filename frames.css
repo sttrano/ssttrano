@@ -1,0 +1,188 @@
+@keyframes border_content_1 {
+    0%{
+        transform: rotate(-35deg);
+        margin-left: -600px;
+        opacity: 0;
+    }
+    100%{
+        transform: rotate(0deg);
+        margin-left: -400px;
+        opacity: 1;
+    }
+}
+@keyframes round_picture_bison{
+    0%{
+        left: 170px;
+        opacity: 0;
+    }
+    100%{
+        left: 270px;
+        opacity: 1;
+    }
+}
+@keyframes About_us_text_div_background{
+    0%{
+        top: -25px;
+        opacity: 0;
+    }
+    100%{
+        top: 25px;
+        opacity: 1;
+    }
+}
+@keyframes About_us_text{
+    0%{
+        opacity: 0;
+        top: -35px;
+    }
+    100%{
+        top: -45px;
+        opacity: 1;
+    }
+}
+@keyframes content_1_text_mine_div{
+    0%{
+        opacity: 0;
+        top: -15px;
+    }
+    100%{
+        top: 0;
+        opacity: 1;
+    }
+}
+@keyframes content_1_text_side_div{
+    0%{
+
+    }
+    100%{
+
+    }
+}
+@keyframes contant_1{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+@keyframes Content_2_picture_div{
+    0%{
+        opacity: 0;
+        left: 0px;
+    }
+    100%{
+        opacity: 1;
+        left: -50px;
+    }
+}
+@keyframes border2{
+    0%{
+        opacity: 0;
+        margin-left: 880px;
+    }
+    100%{
+        margin-left: 680px;
+        opacity: 1;
+    }
+}
+@keyframes WhatWeDo_text{
+    0%{
+        margin-top: -45px;
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        margin-top: -30px;
+    }
+}
+@keyframes whatWeDo_background{
+    0%{
+        opacity: 0;
+        margin-top: -5px;
+    }
+    100%{
+        margin-top: -25px;
+        opacity: 1;
+    }
+}
+@keyframes Read_more_content_2_BG{
+    0%{
+        opacity: 0;
+        width: 150px;
+    }
+    100%{
+        opacity: 1;
+        width: 250px;
+    }
+}
+@keyframes Read_more_content_2_txt{
+    0%{
+        opacity: 0;
+        top: 20px;
+    }
+    100%{
+        opacity: 1;
+        top: 5px;
+    }
+}
+@keyframes Port_border_1{
+    0%{
+        opacity: 0;
+        margin-left: 100px;
+    }
+    100%{
+        margin-left: -470px;
+        opacity: 1;
+    }
+}
+@keyframes Port_border_2{
+    0%{
+        opacity: 0;
+        margin-left: 200px;
+    }
+    100%{
+        margin-left: 425px;
+        opacity: 0.8;
+    }
+}
+@keyframes Our_works_BG{
+    0%{
+        opacity: 0;
+        width: 250px;
+    }
+    100%{
+        opacity: 1;
+        width: 500px;
+    }
+}
+@keyframes Our_works{
+    0%{
+        opacity: 0;
+        margin-top: 100px;
+    }
+    100%{
+        opacity: 1;
+        margin-top: 80px;
+    }
+}
+@keyframes Portfolio_text_mine{
+    0%{
+        opacity: 0;
+        margin-top: -30px;
+    }
+    100%{
+        opacity: 1;
+        margin-top: 0;
+    }
+}
+@keyframes youCan_text{
+    0%{
+        opacity: 0;
+        left: -480px;
+    }
+    100%{
+        opacity: 1;
+        left: 0px;
+    }
+}
